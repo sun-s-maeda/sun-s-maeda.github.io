@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3393591224
+CRC: 202665815
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e433c3e0bfb6986b07cc40e9bffe045b
+    Hash: 7fc088a73dd3a46974265c82b4680c81
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cbeae919f514573060af94eca03685b4
+    Hash: 472f848c506e7ffa32bb124ebca33f6a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e433c3e0bfb6986b07cc40e9bffe045b
+    Hash: 7fc088a73dd3a46974265c82b4680c81
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -58,7 +58,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
-  ClassName: SUN_S.VirtualFashionApp.Asset.ColorDataAsset
+  ClassName: SUN_S.VirtualFashionViewer.Asset.ColorDataAsset
 - AssemblyName: MagicaCloth
   ClassName: MagicaCloth.BezierParam
 - AssemblyName: MagicaCloth
@@ -69,10 +69,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: MagicaCloth.CompositeRotationConstraint/RootInfo
 - AssemblyName: MagicaCloth
   ClassName: MagicaCloth.CompositeRotationConstraint/RotationData
-- AssemblyName: MagicaCloth
-  ClassName: MagicaCloth.LineWorker/LineRotationData
-- AssemblyName: MagicaCloth
-  ClassName: MagicaCloth.LineWorker/LineRotationRootInfo
 - AssemblyName: MagicaCloth
   ClassName: MagicaCloth.MeshData/ChildData
 - AssemblyName: MagicaCloth

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 537407348
+CRC: 312736588
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 47319e9f0d1ff10686cacd9f2c050baf
+    Hash: 9efba64b98dd956fab7e7375b1d1f7dd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cbeae919f514573060af94eca03685b4
+    Hash: 472f848c506e7ffa32bb124ebca33f6a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 47319e9f0d1ff10686cacd9f2c050baf
+    Hash: 9efba64b98dd956fab7e7375b1d1f7dd
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -58,7 +58,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
-  ClassName: SUN_S.VirtualFashionApp.Asset.ColorDataAsset
+  ClassName: SUN_S.VirtualFashionViewer.Asset.ColorDataAsset
 - AssemblyName: MagicaCloth
   ClassName: MagicaCloth.BezierParam
 - AssemblyName: MagicaCloth
