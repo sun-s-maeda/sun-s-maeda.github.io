@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1817578523
+CRC: 1535304268
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -7,4 +7,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_1:
       Name: product_spt22101
+      Dependencies: {}
+    Info_2:
+      Name: product_baseballcap
       Dependencies: {}
