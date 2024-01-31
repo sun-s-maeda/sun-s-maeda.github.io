@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 614567661
+CRC: 1308883805
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 707c4a81b2eb370387f33ab37ccbc2cb
+    Hash: abfe52d674f1c543994632b3c995e442
   TypeTreeHash:
     serializedVersion: 2
     Hash: b164d4b33c2be1ed8d698b9199aaedcf
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 707c4a81b2eb370387f33ab37ccbc2cb
+    Hash: abfe52d674f1c543994632b3c995e442
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -42,5 +42,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: SUN_S.VirtualFashionViewer.Asset.ColorDataAsset
 Assets:
-- Assets/SUN-S/VirtualFashionViewer/ProductAsset/Data/baseballcap.asset
+- Assets/SUN-S/VirtualFashionViewer/ProductAsset/Data/product_baseballcap.asset
 Dependencies: []
