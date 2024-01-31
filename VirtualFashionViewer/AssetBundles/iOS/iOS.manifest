@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 692554656
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: product_spt22105
+      Dependencies: {}
+    Info_1:
+      Name: product_spt22101
+      Dependencies: {}
