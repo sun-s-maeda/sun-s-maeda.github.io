@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1312115214
+CRC: 319473199
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -10,4 +10,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_2:
       Name: product_baseballcap
+      Dependencies: {}
+    Info_3:
+      Name: product_fv2_regular_fit_denim_pants
       Dependencies: {}

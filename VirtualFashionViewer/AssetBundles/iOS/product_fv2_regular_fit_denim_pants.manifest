@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3262916272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8902678a1a8f4f44261468480c914a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75efab9c8114b1ed4ef621e97af72bfb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e8902678a1a8f4f44261468480c914a9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 351f90a617c130e4fbd098a42684aa70, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 799246f2800466541b9968c77198f028, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SUN_S.VirtualFashionViewer.Asset.ColorDataAsset
+Assets:
+- Assets/SUN-S/VirtualFashionViewer/ProductAsset/Data/product_fv2_regular_fit_denim_pants.asset
+Dependencies: []
